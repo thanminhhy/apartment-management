@@ -1,0 +1,9 @@
+# Installed packages
+node_modules/
+
+# Build and test output
+dist/
+coverage/
+
+# Secrets such as database password and API key
+.env
