@@ -7,3 +7,6 @@ coverage/
 
 # Secrets such as database password and API key
 .env
+
+# Typescript build cache
+*.tsbuildinfo
